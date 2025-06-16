@@ -1,0 +1,54 @@
+{
+  "default": {
+    "comment": "Default. If using this double check. Hopefully used for most servos",
+    "torque_enable": 64,
+    "profile_velocity": 112,
+    "goal_position": 116,
+    "moving": 122,
+    "present_position": 132,
+    "len_torque_enable": 1,
+    "len_profile_velocity": 4,
+    "len_goal_position": 4,
+    "len_moving": 1,
+    "len_present_position": 4
+  },
+  "1120": {
+    "comment": "Model number for XM540-W270. Same as default.",
+    "torque_enable": 64,
+    "profile_velocity": 112,
+    "goal_position": 116,
+    "moving": 122,
+    "present_position": 132,
+    "len_torque_enable": 1,
+    "len_profile_velocity": 4,
+    "len_goal_position": 4,
+    "len_moving": 1,
+    "len_present_position": 4
+  },
+  "1200": {
+    "comment": "Model number for XL330-M288. Same as default.",
+    "torque_enable": 64,
+    "profile_velocity": 112,
+    "goal_position": 116,
+    "moving": 122,
+    "present_position": 132,
+    "len_torque_enable": 1,
+    "len_profile_velocity": 4,
+    "len_goal_position": 4,
+    "len_moving": 1,
+    "len_present_position": 4
+  },
+  "2020": {
+    "comment": "Model number for PH54-200-S500-R.",
+    "torque_enable": 512,
+    "profile_velocity": 560,
+    "goal_position": 564,
+    "moving": 570,
+    "present_position": 580,
+    "len_torque_enable": 1,
+    "len_profile_velocity": 4,
+    "len_goal_position": 4,
+    "len_moving": 1,
+    "len_present_position": 4
+  }
+}

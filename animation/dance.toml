@@ -1,0 +1,48 @@
+# The base speed for all movements in this sequence. (Optional)
+base_velocity = 200
+
+# First step in the sequence
+[[sequence]]
+position_file = "hug.json" # The pose to move to
+delay_ms = 1000                         # Wait 1 second after the move
+
+# Second step
+[[sequence]]
+position_file = "t_ho.json"
+delay_ms = 250
+
+# First step in the sequence
+[[sequence]]
+position_file = "hug.json" # The pose to move to
+velocity = 5
+delay_ms = 1000                         # Wait 1 second after the move
+
+
+# Second step
+[[sequence]]
+position_file = "t_ho.json"
+velocity = 5
+delay_ms = 250
+
+# First step in the sequence
+[[sequence]]
+position_file = "hug.json" # The pose to move to
+velocity = 500
+delay_ms = 1000                         # Wait 1 second after the move
+
+
+# Second step
+[[sequence]]
+position_file = "t_ho.json"
+velocity = 500
+delay_ms = 250
+
+# Third step, a slower movement
+[[sequence]]
+position_file = "t_hc.json"
+velocity = 80 # Override base_velocity for just this move
+delay_ms = 1500
+
+# Final step, return to a rest pose. No delay, so the sequence ends here.
+[[sequence]]
+position_file = "rest_ho.json"

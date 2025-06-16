@@ -1,0 +1,242 @@
+[
+    {
+        "com_port": "COM5",
+        "baud_rate": 4000000,
+        "id": 1,
+        "motor_type": 1120
+    },
+    {
+        "com_port": "COM5",
+        "baud_rate": 4000000,
+        "id": 2,
+        "motor_type": 1120
+    },
+    {
+        "com_port": "COM5",
+        "baud_rate": 4000000,
+        "id": 3,
+        "motor_type": 1120
+    },
+    {
+        "com_port": "COM5",
+        "baud_rate": 4000000,
+        "id": 4,
+        "motor_type": 1120
+    },
+    {
+        "com_port": "COM5",
+        "baud_rate": 4000000,
+        "id": 5,
+        "motor_type": 1120
+    },
+    {
+        "com_port": "COM5",
+        "baud_rate": 4000000,
+        "id": 6,
+        "motor_type": 1120
+    },
+    {
+        "com_port": "COM5",
+        "baud_rate": 4000000,
+        "id": 7,
+        "motor_type": 1120
+    },
+    {
+        "com_port": "COM5",
+        "baud_rate": 4000000,
+        "id": 8,
+        "motor_type": 1120
+    },
+    {
+        "com_port": "COM5",
+        "baud_rate": 4000000,
+        "id": 9,
+        "motor_type": 1120
+    },
+    {
+        "com_port": "COM5",
+        "baud_rate": 4000000,
+        "id": 10,
+        "motor_type": 1120
+    },
+    {
+        "com_port": "COM5",
+        "baud_rate": 4000000,
+        "id": 11,
+        "motor_type": 1120
+    },
+    {
+        "com_port": "COM5",
+        "baud_rate": 4000000,
+        "id": 12,
+        "motor_type": 1120
+    },
+    {
+        "com_port": "COM5",
+        "baud_rate": 4000000,
+        "id": 13,
+        "motor_type": 1120
+    },
+    {
+        "com_port": "COM5",
+        "baud_rate": 4000000,
+        "id": 14,
+        "motor_type": 1120
+    },
+    {
+        "com_port": "COM5",
+        "baud_rate": 4000000,
+        "id": 15,
+        "motor_type": 1120
+    },
+    {
+        "com_port": "COM5",
+        "baud_rate": 4000000,
+        "id": 16,
+        "motor_type": 1120
+    },
+    {
+        "com_port": "COM5",
+        "baud_rate": 4000000,
+        "id": 17,
+        "motor_type": 1120
+    },
+    {
+        "com_port": "COM5",
+        "baud_rate": 4000000,
+        "id": 18,
+        "motor_type": 1120
+    },
+    {
+        "com_port": "COM5",
+        "baud_rate": 4000000,
+        "id": 19,
+        "motor_type": 1120
+    },
+    {
+        "com_port": "COM5",
+        "baud_rate": 4000000,
+        "id": 20,
+        "motor_type": 1120
+    },
+    {
+        "com_port": "COM4",
+        "baud_rate": 4000000,
+        "id": 21,
+        "motor_type": 1120
+    },
+    {
+        "com_port": "COM4",
+        "baud_rate": 4000000,
+        "id": 22,
+        "motor_type": 1120
+    },
+    {
+        "com_port": "COM4",
+        "baud_rate": 4000000,
+        "id": 23,
+        "motor_type": 1120
+    },
+    {
+        "com_port": "COM5",
+        "baud_rate": 4000000,
+        "id": 24,
+        "motor_type": 1120
+    },
+    {
+        "com_port": "COM5",
+        "baud_rate": 4000000,
+        "id": 25,
+        "motor_type": 1120
+    },
+    {
+        "com_port": "COM4",
+        "baud_rate": 4000000,
+        "id": 26,
+        "motor_type": 1120
+    },
+    {
+        "com_port": "COM4",
+        "baud_rate": 4000000,
+        "id": 27,
+        "motor_type": 1120
+    },
+    {
+        "com_port": "COM4",
+        "baud_rate": 4000000,
+        "id": 28,
+        "motor_type": 1120
+    },
+    {
+        "com_port": "COM4",
+        "baud_rate": 4000000,
+        "id": 29,
+        "motor_type": 1120
+    },
+    {
+        "com_port": "COM4",
+        "baud_rate": 4000000,
+        "id": 30,
+        "motor_type": 1120
+    },
+    {
+        "com_port": "COM4",
+        "baud_rate": 4000000,
+        "id": 31,
+        "motor_type": 1120
+    },
+    {
+        "com_port": "COM4",
+        "baud_rate": 4000000,
+        "id": 32,
+        "motor_type": 1120
+    },
+    {
+        "com_port": "COM4",
+        "baud_rate": 4000000,
+        "id": 33,
+        "motor_type": 1120
+    },
+    {
+        "com_port": "COM4",
+        "baud_rate": 4000000,
+        "id": 34,
+        "motor_type": 1120
+    },
+    {
+        "com_port": "COM4",
+        "baud_rate": 4000000,
+        "id": 35,
+        "motor_type": 1120
+    },
+    {
+        "com_port": "COM4",
+        "baud_rate": 4000000,
+        "id": 36,
+        "motor_type": 1120
+    },
+    {
+        "com_port": "COM4",
+        "baud_rate": 4000000,
+        "id": 37,
+        "motor_type": 1120
+    },
+    {
+        "com_port": "COM4",
+        "baud_rate": 4000000,
+        "id": 38,
+        "motor_type": 1120
+    },
+    {
+        "com_port": "COM3",
+        "baud_rate": 4000000,
+        "id": 39,
+        "motor_type": 2020
+    },
+    {
+        "com_port": "COM3",
+        "baud_rate": 4000000,
+        "id": 40,
+        "motor_type": 2020
+    }
+]

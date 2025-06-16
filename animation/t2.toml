@@ -1,0 +1,41 @@
+# The base speed for all movements in this sequence. (Optional)
+base_velocity = 1000
+
+[[sequence]]
+position_file = "m1.json"
+delay_ms = 1000
+
+[[sequence]]
+position_file = "m2.json"
+delay_ms = 1000
+
+[[sequence]]
+position_file = "m3.json"
+delay_ms = 1000
+
+[[sequence]]
+position_file = "m4.json"
+delay_ms = 1000
+
+[[sequence]]
+position_file = "m5.json"
+delay_ms = 5000
+
+[[sequence]]
+position_file = "t1.toml"
+speed = 100
+delay_ms = 5000
+
+[[sequence]]
+position_file = "t1.toml"
+speed = 50
+delay_ms = 5000
+
+[[sequence]]
+position_file = "t1.toml"
+speed = 10
+delay_ms = 5000
+
+[[sequence]]
+position_file = "t1.toml"
+speed = 150

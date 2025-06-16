@@ -1,0 +1,37 @@
+# The base speed for all movements in this sequence. (Optional)
+base_velocity = 500
+
+[[sequence]]
+position_file = "a1.json"
+delay_ms = 1500
+
+[[sequence]]
+position_file = "a1_1.json"
+delay_ms = 1500
+
+[[sequence]]
+position_file = "a1.json"
+delay_ms = 1500
+
+[[sequence]]
+position_file = "a1_1.json"
+delay_ms = 150
+
+[[sequence]]
+position_file = "a1.json"
+delay_ms = 150
+
+[[sequence]]
+position_file = "a1_1.json"
+delay_ms = 150
+
+[[sequence]]
+position_file = "a1.json"
+delay_ms = 150
+
+[[sequence]]
+position_file = "a1_1.json"
+delay_ms = 150
+
+[[sequence]]
+position_file = "a1.json"

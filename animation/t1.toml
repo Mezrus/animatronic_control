@@ -1,0 +1,27 @@
+# The base speed for all movements in this sequence. (Optional)
+base_velocity = 1000
+
+# First step in the sequence
+[[sequence]]
+position_file = "m1.json"
+delay_ms = 1000                         # Wait 1 second after the move
+
+# Second step
+[[sequence]]
+position_file = "m2.json"
+delay_ms = 1000
+
+# First step in the sequence
+[[sequence]]
+position_file = "m3.json" # The pose to move to
+delay_ms = 1000                         # Wait 1 second after the move
+
+# Second step
+[[sequence]]
+position_file = "m4.json"
+delay_ms = 1000
+
+# Second step
+[[sequence]]
+position_file = "m5.json"
+delay_ms = 1000
